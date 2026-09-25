@@ -267,8 +267,11 @@ read along the triangle background grid. The marked cells read `Cogito,_ubi_sit_
 https://wiki.pigeon-games.com/Cogito,_ubi_sit_refugium/
 
 ## Morse
-
+![Cogito](products/Cogito.png)
 The Cogito title is `.Bravo _Charlie ␣Delta`. Bravo, Charlie, and Delta name three invisible characters: `U+200B`, `U+200C`, and `U+200D`. They sit after the sentence on that page. `U+200B` is a dot, `U+200C` is a dash, `U+200D` ends a letter.
+```text
+Technology can expand the boundaries of humanity,‌​​‍​​‍​​​‍‌‌‌‍​‌​‍​​‍​‍‌​‍‌‍​‌‍‌‍​​‍‌‌‌‍‌​  it can also fabricate the semblance of reality.
+```
 
 ```text
 -.. .. ... --- .-. .. . -. - .- - .. --- -.
